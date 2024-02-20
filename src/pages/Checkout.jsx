@@ -4,7 +4,6 @@ import Logo from "../components/Logo/Logo";
 import { Discount, InitialView, PaymentView } from "../containers";
 import { BaseLayout, LeftSlide, RightSlide } from "../layouts";
 import { checkoutPageView } from "../constants/checkout";
-import { Link } from "react-router-dom";
 import { countries } from "../constants/countries";
 
 export const Checkout = () => {
