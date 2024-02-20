@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import { checkoutPageView } from "../../../constants/checkout";
 
 const PaymentView = ({ toggleView }) => {
